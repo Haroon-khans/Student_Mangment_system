@@ -1,0 +1,27 @@
+{
+    "student": [
+        {
+            "name": "Ali",
+            "age": 18,
+            "roll_no": 12,
+            "email": "ali@gmail.com",
+            "grades": {}
+        },
+        {
+            "name": "abdullah",
+            "age": 16,
+            "roll_no": 3,
+            "email": "abdullah@gmail.com",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Ahmed",
+            "age": 34,
+            "employee_id": 21,
+            "subject": "MATH",
+            "email": "ahmed@gmail.com"
+        }
+    ]
+}
