@@ -8,10 +8,11 @@ https://studentmangmentsystem-myvehup3a684txvowg95vm.streamlit.app/
 
 ## ✨ Features
 
-- Add Student
-- Update Student
-- Delete Student
-- Search Student
+- Register Student
+- Register Teacher
+- Onboard Faculty
+- Academic Grading
+- Directory Search
 - Modern Dashboard
 - Responsive UI
 
@@ -21,9 +22,6 @@ https://studentmangmentsystem-myvehup3a684txvowg95vm.streamlit.app/
 - Streamlit
 - JSON
 
-## 📸 Screenshots
-
-(Add screenshots here later)
 
 ## 👨‍💻 Developed By
 
